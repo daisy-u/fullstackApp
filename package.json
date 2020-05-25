@@ -1,0 +1,35 @@
+{
+  "name": "fullstackapp",
+  "version": "1.0.0",
+  "description": "Your To-Do",
+  "main": "app.js",
+  "scripts": {
+    "start-dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daisy-u/fullstackApp.git"
+  },
+  "keywords": [
+    "fullstack",
+    "node",
+    "express",
+    "javascript",
+    "postgres",
+    "sql",
+    "dbeaver"
+  ],
+  "author": "Daisy Umotong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daisy-u/fullstackApp/issues"
+  },
+  "homepage": "https://github.com/daisy-u/fullstackApp#readme",
+  "dependencies": {
+    "express": "4.17.1",
+    "hbs": "4.1.1",
+    "knex": "0.21.1",
+    "nodemon": "2.0.4",
+    "pg": "8.2.1"
+  }
+}
