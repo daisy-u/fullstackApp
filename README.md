@@ -1,2 +1,2 @@
 # Your To-Do
-*create lists, check items off, see archived lists*
+Might have to redo this app without handlebars. 
